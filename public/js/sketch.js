@@ -44,7 +44,8 @@ function setup() {
 
   background(240);
   drawReceipt();
-  getMovies("chatteleyn");
+  //getMovies("chatteleyn");
+  getDiaryData("chatteleyn");
 }
 
 function draw() {}
